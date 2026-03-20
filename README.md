@@ -55,7 +55,7 @@
 
 ## 🔗 Connect With Me
 
-- **LinkedIn**: `x1xhlol`
+- **LinkedIn**: `https://www.linkedin.com/in/abhiraj-dixit-6aa386313/`
 - **Email**: `abhirajdixit25@gmail.com`
 
 
